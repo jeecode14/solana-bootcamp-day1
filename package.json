@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@project-serum/borsh": "^0.2.5",
+    "bs58": "^5.0.0",
+    "dotenv": "^16.3.1"
+  }
+}
